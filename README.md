@@ -25,8 +25,17 @@ Furthermore, nowadays is commonly found online, when reading the news, another c
 
 This Smart Indoor plant monitoring and watering is designed to be inserted into any indoor plant vase. Is able to measure and calculate the moisture content in the vase, and when detects low water contents, activates the water pump. Is able to connect to a local home server to upload indoor temperature, humidity, and air quality measurement data. This way, the owner, can have a history record database, without the need for expensive cloud subscriptions.  Additionally, it features a 6 LED system composed of an ultraviolet LED, an Infrared LED and an RGB LED, when combined with multiple devices like this one in the same room is able to perform some basic light aggression protection from an unknown light source outside during the night & day. 
 
+<br>
+### Status
+![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/working_green.png) Fully tested and working
 
 <br>
+
+### Known PCB bugs
+This revision has a few knwon small PCB errors. 
+
+<br>
+
 <p align="center">
 <a href="https://twitter.com/AeonlabsS/status/1621057949425889280?ref_src=twsrc%5Etfw">
 <img src="https://github.com/aeonSolutions/AeonLabs-Indoor-Smart-Plant-Watering/blob/main/designs/plamt_watering_video_teaser.png" height="450">
