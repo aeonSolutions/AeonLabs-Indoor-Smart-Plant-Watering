@@ -29,7 +29,7 @@ This Smart Indoor plant monitoring and watering is designed to be inserted into 
 <br>
 <p align="center">
 <a href="https://twitter.com/AeonlabsS/status/1621057949425889280?ref_src=twsrc%5Etfw">
-<img src="https://github.com/aeonSolutions/AeonLabs-Indoor-Smart-Plant-Watering/blob/main/designs/plamt_watering_video_teaser.png" height="350">
+<img src="https://github.com/aeonSolutions/AeonLabs-Indoor-Smart-Plant-Watering/blob/main/designs/plamt_watering_video_teaser.png" height="450">
 </a>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">A small update on prototyping the indoor plant monitoring smart device <a href="https://twitter.com/gardein?ref_src=twsrc%5Etfw">@gardein</a> <a href="https://t.co/ORobUAjV0F">pic.twitter.com/ORobUAjV0F</a></p>&mdash; Aeonlabs.science (@AeonlabsS) <a href="https://twitter.com/AeonlabsS/status/1621057949425889280?ref_src=twsrc%5Etfw"></a></blockquote>
