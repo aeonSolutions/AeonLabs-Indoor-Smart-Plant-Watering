@@ -34,7 +34,7 @@ This Smart Indoor plant monitoring and watering is designed to be inserted into 
 <br>
 
 ### Known PCB bugs
-This revision has a few knwon small PCB errors. 
+This public revision of the PCB electronics has a few known small errors. 
 
 <br>
 
