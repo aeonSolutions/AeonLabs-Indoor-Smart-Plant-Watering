@@ -16,12 +16,12 @@
 
 
 **The Problem**
-
+Anyone loves to have some plants nearby, even when living in an appartment building. However, few know, or device to have time to do proper indoor planr care. The main culprit, absence of water and dry soil. 
 
 
 
 **The Idea**
-
+This Smart Indoor plant monitoring and watering is designed to be inserted into any indoor plant vase. Is able to measure and calculate the moisture content in the vase , and when detects low water contents , activates the water pump. Is able to connect to a local home server to upload indoor temperature, humidity and air quality measurements data. This way, the owner , can have a history record database, whithout the need of expensive cloud subscritions. 
 
 
 <br>
