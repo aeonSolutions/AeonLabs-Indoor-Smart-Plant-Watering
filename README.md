@@ -19,7 +19,7 @@
 
 Anyone loves to have some plants nearby, even when living in an appartment building. However, few know, or device to have time to do proper indoor planr care. The main culprit, absence of water and dry soil. 
 
-Nowadays is commonly found online, when reading the news, another case and victim of light agression in particular using some kind of diode laser light: red, green, yellow, blue. And more dangerous, ultra violet (UV) or infrared (IR) lasers. 
+Furthermore, nowadays is commonly found online, when reading the news, another case and victim of light agression in particular using some kind of diode laser light: red, green, yellow, blue. And more dangerous, ultra violet (UV) or infrared (IR) lasers. 
 
 **The Idea**
 
