@@ -23,9 +23,9 @@
 
 **The Problem**
 
-Anyone loves to have some plants nearby, even when living in an appartment building. However, few know, or device to have time to do proper indoor planr care. The main culprit, absence of water and dry soil. 
+Anyone loves to have some plants nearby, even when living in an apartment building. However, few know, or have devices to do proper indoor plant care. The main culprit is the absence of water and dry soil.
 
-Furthermore, nowadays is commonly found online, when reading the news, another case and victim of light agression in particular using some kind of diode laser light: red, green, yellow, blue. And more dangerous, ultra violet (UV) or infrared (IR) lasers. 
+Furthermore, nowadays is commonly found online, when reading the news, another case and victim of light aggression, in particular, using some kind of diode laser light: red, green, yellow, or blue. And more dangerous, ultraviolet (UV) or infrared (IR) lasers.
 
 **The Idea**
 
