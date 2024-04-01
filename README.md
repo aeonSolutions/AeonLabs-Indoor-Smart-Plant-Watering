@@ -61,7 +61,8 @@ This public revision of the PCB electronics has a few known small errors.
 </p>
 
 <br>
-  ## Compatibility
+
+## Compatibility
 
 <p align="center">
  <a href"https://www.apple.com/shop/accessories/all/homekit">
@@ -80,6 +81,11 @@ This public revision of the PCB electronics has a few known small errors.
  <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/works_with_zigbee.jpg" height="50">
  </a>
 </p>
+
+<br>
+
+### Made by other Makers
+ - [Soil Sensor](https://github.com/GewoonMaarten/soil-sensor) by [Maarten](https://github.com/GewoonMaarten)
 
 <br>
 
